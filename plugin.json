@@ -1,0 +1,8 @@
+{
+  "name": "vn-med-search",
+  "version": "1.1.0",
+  "description": "Tìm kiếm tài liệu y học từ các tạp chí và cơ sở dữ liệu Việt Nam.",
+  "author": { "name": "Antigravity Agent" },
+  "skills": ["skills/vn-med-search"],
+  "agents": ["agents/vn-med-researcher.json"]
+}
