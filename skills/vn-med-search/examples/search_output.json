@@ -1,0 +1,25 @@
+{
+  "query": "ung thư",
+  "total_results": 1,
+  "filters": {
+    "author": "Cung",
+    "year": null,
+    "study_type": "case-report"
+  },
+  "articles": [
+    {
+      "title": "30.  Ung thư biểu mô tế bào vảy dạng lympho - biểu mô: Báo cáo ca bệnh và xem xét tài liệu liên quan",
+      "authors": [
+        "Cung Văn Công"
+      ],
+      "abstract": "Lymphoepithelioma-like carcinoma (LELC) is an undifferentiated carcinoma with intense reactive lymphoplasmacytic infiltrate. LELC is mostly found in the nasopharynx, salivary glands and thymus. LELCs occurring in other locations are extremely rare. The pathogenesis of LELC remains unclear, but in some sites, it is associated with Epstein-Barr virus (EBV) infection. We report a rare case of LELC of the skin in a 36-year-old male. LELC of the skin has a favorable prognosis, and surgical excision with clean margins is the primary treatment.",
+      "journal": "Tạp chí Nghiên cứu Y học",
+      "year": 2023,
+      "doi": "10.52852/tcncyh.v164i3.1495",
+      "url": "https://tapchinghiencuuyhoc.vn/index.php/tcncyh/article/view/1495",
+      "pdf_url": "https://tapchinghiencuuyhoc.vn/index.php/tcncyh/article/download/1495/1077",
+      "source": "Tạp chí Nghiên cứu Y học",
+      "language": "vi"
+    }
+  ]
+}
